@@ -25,9 +25,9 @@
 개인 과외 활동을 거쳐 네이버 까페 등에서 무료 온라인 강의를 진행하다가 2018년 부터 새로운 활동을 진행하고 있습니다.
 아래 링크들을 통해 저에 대해서 더 자세히 살펴보실 수 있습니다.
 
-- https://github.com/jongfeel
-- https://developerfeel.blogspot.kr/
-- https://www.indeed.com/me/kimjongfeel
+- [Github](https://github.com/jongfeel)
+- [Blog](https://developerfeel.blogspot.kr/)
+- [Resume](https://www.indeed.com/me/kimjongfeel)
 
 ## 어떤 개발 언어로 하는 거죠?
 
@@ -40,7 +40,7 @@
 ## 이렇게 하면 얻는 이득이 뭐죠?
 
 - 여러분은 점차 소프트웨어를 이해하고 개발할 수 있는 능력을 얻게 됩니다.
-- 저는 여러분들이 하려는 경험을 함께 공유하고 제가 여태까지 경험하지 못한 부분도 같이 경험합니다. 나아가서 다른 후배들에게 소프트웨어에 대한 이해를 더 깊게 이해시켜 줄 수 있는 경험을 얻게 되겠죠.
+- 저는 여러분들이 하려는 경험을 함께 공유하고 제가 여태까지 경험하지 못한 부분을 경험하게 됩니다. 그러면 나중에 저와 함께 하는 다른 후배들에게 소프트웨어에 대한 이해를 더 잘 이해시켜 줄 수 있는 경험을 얻게 되겠죠.
 - 어찌됐든 시간이 지나면 금전적 비용이 들진 않지만 서로 이득이긴 합니다.
 
 ## 어떤 식으로 진행하나요?
@@ -60,9 +60,9 @@
 아래와 같은 목적을 가지신 분은 저와 함께 해 봤자 도움이 되지 않는다는 걸 깨달으실 수 있습니다.
 
 - 학교 과제나 회사 실무 문제를 저한테 시켜서 빨리 해결하고 싶으신 분
-- 사람을 고용해서 해야 할 일을, 절 시켜서 해결 하시려는 분
+- 사람을 고용해서 해야 할 일을, 절 시켜서 하시려는 분
 - 아무 목적 없이 저와 함께 하면 뭔가 잘 알게 될거라는 기대를 가지신 분
-- 제가 문제 같은 걸 주고 풀라고 시켜서 그 커리큘럼 대로 하면 실력이 향상 될거라 기대하시는 분 (전 커리큘럼을 가지고 있지 않을 뿐 아니라 이것 저것 해보라고 시키고 검사를 해주는 사람이 아닙니다.)
+- 제가 문제 같은 걸 주고 풀라고 시켜서 그 커리큘럼 대로 하면 실력이 향상 될 거라 기대하시는 분 (전 커리큘럼을 가지고 있지 않을 뿐 아니라 이것 저것 해보라고 시키고 검사를 해주는 사람이 아닙니다.)
 
 ## 진행 시 중요 규칙
 
@@ -77,14 +77,14 @@
 - 학생들에게 실질적인 도움을 줄 수 있는 강의시간표 짜기 앱 개발 진행
 - 2018-05 ~ 현재
 - 매주 월요일 오후 10:30 온라인 미팅
-- https://github.com/jongfeel/AllCle
+- [https://github.com/jongfeel/AllCle](https://github.com/jongfeel/AllCle)
 
 ### 박수혁님
 
 - 회사에서 일하는 것 외에 실력 향상을 위한 C# 공부
 - 2018-05 ~ 현재
 - 매주 금요일 오후 23:00 온라인 미팅
-- https://github.com/parkdex/T_MultiThreading
+- [https://github.com/parkdex/T_MultiThreading](https://github.com/parkdex/T_MultiThreading)
 
 ### 정재우님
 
@@ -92,14 +92,14 @@
 - 이 결과물을 볼 수 있는 뷰어 개발을 위해 저와 WPF 기반의 C# study 진행 중
 - 2018-05 ~ 현재
 - 매주 월요일 18:40 오프라인 미팅
-- https://github.com/jongfeel/BrainTumorPredictViewer
+- [https://github.com/jongfeel/BrainTumorPredictViewer](https://github.com/jongfeel/BrainTumorPredictViewer)
 
 ### noobiny님
 
 - 회사 솔루션 코드 분석을 위한 C#과 MVVM 코드 리뷰 진행
 - 2018-02 (종료)
 - 매주 일요일 오후 14:00 온라인 미팅
-- https://github.com/noobiny/MVVMex
+- [https://github.com/noobiny/MVVMex](https://github.com/noobiny/MVVMex)
 - 후기: 하고자 하는 기능에 대해 몇 번의 코드리뷰를 통해 잘 모르던 개념 파악하게 됨
 
 ### 안양대학교 디지털미디어디자인 학생들
@@ -108,22 +108,22 @@
 - 저와 함께 기술적인 문제 해결 및 공부를 위해 study 진행
 - 2018-03 ~ 2018-06 (종료)
 - 매주 금요일 오후 19:00 오프라인 미팅
-- https://trello.com/b/Zf5y2C2p/ar
+- [https://trello.com/b/Zf5y2C2p/ar](https://trello.com/b/Zf5y2C2p/ar)
 - 후기: 유니티 -> 홀로렌즈로 AR 앱을 개발하는 방법 전파, github를 통한 공유, 실제 코드 리뷰 및 설명을 통한 진행
 
 ## 문의
 
-- https://github.com/jongfeel/Software/issues 에 문의 내용을 적어 주세요.
+- [Issue](https://github.com/jongfeel/Software/issues) 에 문의 내용을 적어 주세요.
 - 1일 이내에 답변 드립니다.
-- github.com 계정이 없으시면 이번 기회에 하나 만드는걸 추천 드립니다.
+- [github.com](github.com) 계정이 없으시면 이번 기회에 하나 만드는걸 추천 드립니다.
 
 **주의사항**
 
- 문의내용을 등록하는 방법을 알려드렸음에도 불구하고 제 메일로 보내셔도 상관 없습니다. 그러면 https://github.com/jongfeel/Software/issues 요기에 보내신 메일 내용을 제가 친절하게 Ctrl+C, Ctrl+V로 등록해 드립니다.
+ 문의내용을 등록하는 방법을 알려드렸음에도 불구하고 제 메일로 보내셔도 상관 없습니다. 그러면 보내신 메일 내용을 [Issue](https://github.com/jongfeel/Software/issues)에 Ctrl+C, Ctrl+V로 친절하게 등록해 드립니다.
 
 ## 시작하고 싶은 용기가 생기셨나요?
 
-- DeveloperFEEL@gmail.com 메일 주소로 하고 싶은게 뭔지 내용을 적어서 보내주세요. 
+- [DeveloperFEEL@gmail.com](mailto:DeveloperFEEL@gmail.com) 메일 주소로 하고 싶은게 뭔지 내용을 적어서 보내주세요. 
 - 1일 이내에 메일 회신이 가며, 그후 미팅 일정을 잡아 온라인 혹은 오프라인으로 사전 인터뷰를 진행하여 일정 및 주제, 방향등을 구체화 합니다.
 - 저를 믿고 시간을 투자하여 공부를 시작하세요. 저는 여러분을 위해 많은 것을 알려드릴 준비가 되어 있습니다.
 
