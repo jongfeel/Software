@@ -2,8 +2,7 @@
 
 안녕하세요. 저는 소프트웨어 개발에 대한 끊임없는 도전 및 경험을 얻는 걸 좋아하며 이러한 경험을 바탕으로 하여 소프트웨어 개발이 어떤 것인지를 전파하는 활동을 하고 있는 김종필 이라고 합니다.
 
-**View Github pages**
-
+**View Github pages**:
 [https://jongfeel.github.io/Software/](https://jongfeel.github.io/Software/)
 
 ## 뭘 하는 거죠?
@@ -81,7 +80,7 @@
 - 학생들에게 실질적인 도움을 줄 수 있는 강의시간표 짜기 앱 개발 진행
 - 2018-05 ~ 현재
 - 매주 월요일 오후 10:30 온라인 미팅
-- [https://github.com/jongfeel/AllCle](https://github.com/jongfeel/AllCle)
+- [https://github.com/GeunJuLEE/AllCle](https://github.com/GeunJuLEE/AllCle)
 
 ### 박수혁님
 
