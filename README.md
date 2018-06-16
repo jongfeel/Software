@@ -95,6 +95,7 @@ github를 통해 위 활동을 진행하면서 만든 모든 문서와 소스 �
 - 2018-05 ~ 현재
 - 매주 월요일 오후 10:30 온라인 미팅
 - [https://github.com/GeunJuLEE/AllCle](https://github.com/GeunJuLEE/AllCle)
+- 개발툴, 프레임워크 및 언어: Visual Studio Community 2017, WPF, C#
 
 ### 박수혁님
 
@@ -102,6 +103,7 @@ github를 통해 위 활동을 진행하면서 만든 모든 문서와 소스 �
 - 2018-05 ~ 현재
 - 매주 금요일 오후 23:00 온라인 미팅
 - [https://github.com/parkdex/T_MultiThreading](https://github.com/parkdex/T_MultiThreading)
+- 개발툴, 프레임워크 및 언어: Visual Studio Community 2017, WinForm, C#
 
 ### 정재우님
 
@@ -110,6 +112,7 @@ github를 통해 위 활동을 진행하면서 만든 모든 문서와 소스 �
 - 2018-05 ~ 현재
 - 매주 월요일 18:40 오프라인 미팅
 - [https://github.com/jongfeel/BrainTumorPredictViewer](https://github.com/jongfeel/BrainTumorPredictViewer)
+- 개발툴, 프레임워크 및 언어: Visual Studio Community 2017, WPF, C#
 
 ### noobiny님
 
@@ -117,6 +120,7 @@ github를 통해 위 활동을 진행하면서 만든 모든 문서와 소스 �
 - 2018-02 (종료)
 - 매주 일요일 오후 14:00 온라인 미팅
 - [https://github.com/noobiny/MVVMex](https://github.com/noobiny/MVVMex)
+- 개발툴, 프레임워크 및 언어: Visual Studio Community 2017, WPF, C#
 - 후기: 하고자 하는 기능에 대해 몇 번의 코드리뷰를 통해 잘 모르던 개념 파악하게 됨
 
 ### 안양대학교 디지털미디어디자인 학생들
@@ -126,6 +130,7 @@ github를 통해 위 활동을 진행하면서 만든 모든 문서와 소스 �
 - 2018-03 ~ 2018-06 (종료)
 - 매주 금요일 오후 19:00 오프라인 미팅
 - [https://trello.com/b/Zf5y2C2p/ar](https://trello.com/b/Zf5y2C2p/ar)
+- 개발툴, 프레임워크 및 언어: Visual Studio Community 2017, UWP, C#
 - 후기: 유니티 -> 홀로렌즈로 AR 앱을 개발하는 방법 전파, github를 통한 공유, 실제 코드 리뷰 및 설명을 통한 진행
 
 ## 문의
