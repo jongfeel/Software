@@ -89,21 +89,21 @@ github를 통해 위 활동을 진행하면서 만든 모든 문서와 소스 �
 
 ## 아래와 같은 분들이 저와 함께 하고 계십니다
 
+### 박은영님
+
+- 자바스크립트를 통한 반응형&스크롤 애니매이션 페이지 분석 및 개발
+- 2018-06 ~ 현재
+- 매주 목요일 23:00 온라인 미팅
+- [https://github.com/eunyoung739/cloud](https://github.com/eunyoung739/cloud)
+- 개발툴, 프레임워크 및 언어: Brakets, Javascript, jQuery, Html, css
+
 ### 김고은님
 
-- 자바스크립트를 통한 반응형 및 애니매이션 웹 프론트 개발
+- 자바스크립트 기초 이해, 자바스크립트로 반응형 페이지 개발
 - 2018-06 ~ 현재
 - 매주 화요일 23:00 온라인 미팅
 - [https://github.com/kimge/kimgoeun](https://github.com/kimge/kimgoeun)
 - 개발툴, 프레임워크 및 언어: Atom, Javascript, Html, css
-
-### 박수혁님
-
-- 회사에서 일하는 것 외에 실력 향상을 위한 C# 공부
-- 2018-05 ~ 현재
-- 매주 금요일 23:00 온라인 미팅
-- [https://github.com/parkdex/T_MultiThreading](https://github.com/parkdex/T_MultiThreading)
-- 개발툴, 프레임워크 및 언어: Visual Studio Community 2017, WinForm, C#
 
 ### 정재우님
 
@@ -122,6 +122,8 @@ github를 통해 위 활동을 진행하면서 만든 모든 문서와 소스 �
 - [https://github.com/GeunJuLEE/AllCle](https://github.com/GeunJuLEE/AllCle)
 - 개발툴, 프레임워크 및 언어: Visual Studio Community 2017, WPF, C#
 
+## 종료 됐거나 or 중단하신 분들
+
 ### noobiny님
 
 - 회사 솔루션 코드 분석을 위한 C#과 MVVM 코드 리뷰 진행
@@ -129,7 +131,9 @@ github를 통해 위 활동을 진행하면서 만든 모든 문서와 소스 �
 - 매주 일요일 14:00 온라인 미팅
 - [https://github.com/noobiny/MVVMex](https://github.com/noobiny/MVVMex)
 - 개발툴, 프레임워크 및 언어: Visual Studio Community 2017, WPF, C#
-- 후기: 하고자 하는 기능에 대해 몇 번의 코드리뷰를 통해 잘 모르던 개념 파악하게 됨
+- 후기
+    - 하고자 하는 기능에 대해 코드 리뷰 진행
+    - WPF 기본적인 컨트롤과 이벤트 처리 방식에 대한 이해
 
 ### 안양대학교 디지털미디어디자인 학생들
 
@@ -139,7 +143,20 @@ github를 통해 위 활동을 진행하면서 만든 모든 문서와 소스 �
 - 매주 금요일 19:00 오프라인 미팅
 - [https://trello.com/b/Zf5y2C2p/ar](https://trello.com/b/Zf5y2C2p/ar)
 - 개발툴, 프레임워크 및 언어: Visual Studio Community 2017, UWP, C#
-- 후기: 유니티 -> 홀로렌즈로 AR 앱을 개발하는 방법 전파, github를 통한 공유, 실제 코드 리뷰 및 설명을 통한 진행
+- 후기
+    - 유니티 -> 홀로렌즈로 AR 앱을 개발하는 방법 전파
+    - github를 통한 공유, 실제 코드 리뷰 및 설명을 통한 진행
+
+### 박수혁님
+
+- 회사에서 일하는 것 외에 실력 향상을 위한 C# 공부
+- 2018-05 ~ 2018-06 (잠정 중단)
+- 매주 금요일 23:00 온라인 미팅
+- [https://github.com/parkdex/T_MultiThreading](https://github.com/parkdex/T_MultiThreading)
+- 개발툴, 프레임워크 및 언어: Visual Studio Community 2017, WinForm, C#
+- 후기
+    - C#의 이벤트에 대한 이해
+    - Winform 끼리 데이터를 주고 받는 다른 방식
 
 ## 문의
 
