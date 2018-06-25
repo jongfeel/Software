@@ -120,7 +120,7 @@ github를 통해 위 활동을 진행하면서 만든 모든 문서와 소스 �
 - 2018-05 ~ 현재
 - 매주 월요일 22:30 온라인 미팅
 - [https://github.com/GeunJuLEE/AllCle](https://github.com/GeunJuLEE/AllCle)
-- 개발툴, 프레임워크 및 언어: 미정, 현재 분석 설계 단계
+- 개발툴, 프레임워크 및 언어: Visual Studio Community 2017, WPF, C#
 
 ## 종료 됐거나 중단하신 분들
 
