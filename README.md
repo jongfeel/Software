@@ -109,10 +109,19 @@ github를 통해 위 활동을 진행하면서 만든 모든 문서와 소스 �
 
 - 개인적으로 tensorflow를 통한 이미지 학습 공부 진행
 - 이 결과물을 볼 수 있는 뷰어 개발을 위해 저와 WPF 기반의 C# study 진행 중
-- 2018-05 ~ 현재
 - 매주 월요일 18:40 오프라인 미팅
+
+#### tensorflow를 이용한 이미지 분석, 결과 뷰어 응용 프로그램
+
+- 2018-05 ~ 2018-07
 - [https://github.com/jongfeel/BrainTumorPredictViewer](https://github.com/jongfeel/BrainTumorPredictViewer)
 - 개발툴, 프레임워크 및 언어: Visual Studio Community 2017, WPF, C#
+
+#### Winform으로 만들어 보는 이미지 뷰어 연습용, 리뷰를 통한 C# 언어 학습
+
+- 2018-07 ~ 현재
+- [https://github.com/jongfeel/csharp_image_viewer](https://github.com/jongfeel/csharp_image_viewer)
+- 개발툴, 프레임워크 및 언어: Visual Studio Community 2017, Winform, C#
 
 ### 홍익대학교 컴퓨터공학부 학생들
 
