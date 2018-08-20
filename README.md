@@ -16,7 +16,7 @@
 
 이유야 어떻든 결과적으로 저화 함께 진행하여 소프트웨어에 대한 전체적인 이해를 돕고, 그 이해를 바탕으로 올바른 소프트웨어 개발을 할 수 있는 능력을 키우는 것이 목적입니다.
 
-**주의사항**
+### 주의사항
 
 여기서 소프트웨어 개발에 어려움을 가진 사람은 누군가 시킨 일을 "어떻게" 해결해야 하는지 고민하는 사람이 아닙니다.
 
@@ -89,13 +89,13 @@ github를 통해 위 활동을 진행하면서 만든 모든 문서와 소스 �
 
 ## 아래와 같은 분들이 저와 함께 하고 계십니다
 
-### 박은영님
+### 정은선님
 
-- 반응형&스크롤 애니매이션 페이지 분석 및 자바스크립트로 개발
-- 2018-06 ~ 현재
-- 매주 목요일 23:00 온라인 미팅
-- [https://github.com/eunyoung739/cloud](https://github.com/eunyoung739/cloud)
-- 개발툴, 프레임워크 및 언어: Brakets, JavaScript, jQuery, HTML, CSS
+- 알고리즘 문제 풀기, 알고리즘 리뷰 및 수학적 문제에 대한 이해
+- 2018-08 ~ 현재
+- 매주 금요일 23:00 온라인 미팅
+- [https://github.com/apeach314/study](https://github.com/apeach314/study)
+- 개발툴, 프레임워크 및 언어: Eclipse Photon, Java
 
 ### 김고은님
 
@@ -123,15 +123,49 @@ github를 통해 위 활동을 진행하면서 만든 모든 문서와 소스 �
 - [https://github.com/jongfeel/csharp_image_viewer](https://github.com/jongfeel/csharp_image_viewer)
 - 개발툴, 프레임워크 및 언어: Visual Studio Community 2017, Winform, C#
 
-### 홍익대학교 컴퓨터공학부 학생들
+### 홍익대학교 컴퓨터공학부 학생들 (한인수, 이근주, ~~김서우~~)
 
 - 학생들에게 실질적인 도움을 줄 수 있는 강의시간표 짜기 앱 개발 진행
 - 2018-05 ~ 현재
 - 매주 월요일 22:30 온라인 미팅
 - [https://github.com/GeunJuLEE/AllCle](https://github.com/GeunJuLEE/AllCle)
-- 개발툴, 프레임워크 및 언어: Visual Studio Community 2017, WPF, C#
+- 개발툴, 프레임워크 및 언어: Visual Studio Community 2017, Client: WPF, Server: .NET Core 2.0 API, C#
 
-## 종료 됐거나 중단하신 분들
+## 종료된 프로젝트
+
+### 박은영님
+
+- 반응형&스크롤 애니매이션 페이지 분석 및 자바스크립트로 개발
+- 2018-06 ~ 2018-07 (종료)
+- 매주 목요일 23:00 온라인 미팅
+- [https://github.com/eunyoung739/cloud](https://github.com/eunyoung739/cloud)
+- 개발툴, 프레임워크 및 언어: Brakets, JavaScript, jQuery, HTML, CSS
+- 후기
+  - 반응형 웹 사이트 코드 리뷰 및 구현 의도 분석
+  - jQuery가 아닌 javascript에 대한 리뷰 및 이해
+
+### 안양대학교 디지털미디어디자인 학생들 (김혜원, 김예진, 김민)
+
+- 학교 과제로 AR 종이접기 프로젝트 진행
+- 저와 함께 기술적인 문제 해결 및 공부를 위해 study 진행
+- 2018-03 ~ 2018-06 (종료)
+- 매주 금요일 19:00 오프라인 미팅
+- [https://trello.com/b/Zf5y2C2p/ar](https://trello.com/b/Zf5y2C2p/ar)
+- 개발툴, 프레임워크 및 언어: Visual Studio Community 2017, UWP, C#
+- 후기
+  - 유니티 -> 홀로렌즈로 AR 앱을 개발하는 방법 전파
+  - github를 통한 공유, 실제 코드 리뷰 및 설명을 통한 진행
+
+### 박수혁님
+
+- 회사에서 일하는 것 외에 실력 향상을 위한 C# 공부
+- 2018-05 ~ 2018-06 (종료)
+- 매주 금요일 23:00 온라인 미팅
+- [https://github.com/parkdex/T_MultiThreading](https://github.com/parkdex/T_MultiThreading)
+- 개발툴, 프레임워크 및 언어: Visual Studio Community 2017, WinForm, C#
+- 후기
+  - C#의 이벤트에 대한 이해
+  - Winform 끼리 데이터를 주고 받는 다른 방식
 
 ### noobiny님
 
@@ -141,31 +175,8 @@ github를 통해 위 활동을 진행하면서 만든 모든 문서와 소스 �
 - [https://github.com/noobiny/MVVMex](https://github.com/noobiny/MVVMex)
 - 개발툴, 프레임워크 및 언어: Visual Studio Community 2017, WPF, C#
 - 후기
-    - 하고자 하는 기능에 대해 코드 리뷰 진행
-    - WPF 기본적인 컨트롤과 이벤트 처리 방식에 대한 이해
-
-### 안양대학교 디지털미디어디자인 학생들
-
-- 학교 과제로 AR 종이접기 프로젝트 진행
-- 저와 함께 기술적인 문제 해결 및 공부를 위해 study 진행
-- 2018-03 ~ 2018-06 (종료)
-- 매주 금요일 19:00 오프라인 미팅
-- [https://trello.com/b/Zf5y2C2p/ar](https://trello.com/b/Zf5y2C2p/ar)
-- 개발툴, 프레임워크 및 언어: Visual Studio Community 2017, UWP, C#
-- 후기
-    - 유니티 -> 홀로렌즈로 AR 앱을 개발하는 방법 전파
-    - github를 통한 공유, 실제 코드 리뷰 및 설명을 통한 진행
-
-### 박수혁님
-
-- 회사에서 일하는 것 외에 실력 향상을 위한 C# 공부
-- 2018-05 ~ 2018-06 (잠정 중단)
-- 매주 금요일 23:00 온라인 미팅
-- [https://github.com/parkdex/T_MultiThreading](https://github.com/parkdex/T_MultiThreading)
-- 개발툴, 프레임워크 및 언어: Visual Studio Community 2017, WinForm, C#
-- 후기
-    - C#의 이벤트에 대한 이해
-    - Winform 끼리 데이터를 주고 받는 다른 방식
+  - 하고자 하는 기능에 대해 코드 리뷰 진행
+  - WPF 기본적인 컨트롤과 이벤트 처리 방식에 대한 이해
 
 ## 문의
 
@@ -173,9 +184,9 @@ github를 통해 위 활동을 진행하면서 만든 모든 문서와 소스 �
 - 1일 이내에 답변 드립니다.
 - [github.com](github.com) 계정이 없으시면 이번 기회에 하나 만드는걸 추천 드립니다.
 
-**주의사항**
+### 주의사항2
 
- 문의내용을 등록하는 방법을 알려드렸음에도 불구하고 제 메일로 보내셔도 상관 없습니다. 그러면 보내신 메일 내용을 [Issue](https://github.com/jongfeel/Software/issues)에 Ctrl+C, Ctrl+V로 친절하게 등록해 드립니다.
+문의내용을 등록하는 방법을 알려드렸음에도 불구하고 제 메일로 보내셔도 상관 없습니다. 그러면 보내신 메일 내용을 [Issue](https://github.com/jongfeel/Software/issues)에 Ctrl+C, Ctrl+V로 친절하게 등록해 드립니다.
 
 ## 시작하고 싶은 용기가 생기셨나요?
 
