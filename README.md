@@ -140,33 +140,39 @@ github를 통해 위 활동을 진행하면서 만든 모든 문서와 소스 �
 - [https://github.com/kimge/kimgoeun](https://github.com/kimge/kimgoeun)
 - 개발툴, 프레임워크 및 언어: Atom, JavaScript, HTML, CSS
 
-### 정재우님
-
-- 개인적으로 tensorflow를 통한 이미지 학습 공부 진행
-- 이 결과물을 볼 수 있는 뷰어 개발을 위해 저와 WPF 기반의 C# study 진행 중
-- 매주 월요일 18:40 오프라인 미팅
-
-#### tensorflow를 이용한 이미지 분석, 결과 뷰어 응용 프로그램
-
-- 2018-05 ~ 2018-07
-- [https://github.com/jongfeel/BrainTumorPredictViewer](https://github.com/jongfeel/BrainTumorPredictViewer)
-- 개발툴, 프레임워크 및 언어: Visual Studio Community 2017, WPF, C#
-
-#### Winform으로 만들어 보는 이미지 뷰어 연습용, 리뷰를 통한 C# 언어 학습
-
-- 2018-07 ~ 현재
-- [https://github.com/jongfeel/csharp_image_viewer](https://github.com/jongfeel/csharp_image_viewer)
-- 개발툴, 프레임워크 및 언어: Visual Studio Community 2017, Winform, C#
-
 ### 홍익대학교 컴퓨터공학부 학생들 (한인수, 이근주, ~~김서우~~)
 
 - 학생들에게 실질적인 도움을 줄 수 있는 강의시간표 짜기 앱 개발 진행
 - 2018-05 ~ 현재
 - 매주 월요일 22:30 온라인 미팅
-- [https://github.com/GeunJuLEE/AllCle](https://github.com/GeunJuLEE/AllCle)
+- 기존 주소, 연습용
+  - [https://github.com/GeunJuLEE/AllCle](https://github.com/GeunJuLEE/AllCle)
+- 현재 주소, 실 프로젝트 진행용
+  - [https://github.com/allcle/Allcle](https://github.com/allcle/Allcle)
 - 개발툴, 프레임워크 및 언어: Visual Studio Community 2017, Client: WPF, Server: .NET Core 2.0 API, C#
 
 ## 종료된 프로젝트
+
+### 정재우님
+
+- 개인적으로 tensorflow를 통한 이미지 학습 공부 진행
+- 이 결과물을 볼 수 있는 뷰어 개발을 위해 저와 WPF 기반의 C# study 진행 중
+- 매주 월요일 18:40 오프라인 미팅
+- 후기
+  - tensor flow를 통해 이미지 인식 대한 개요 및 이해
+  - 이런한 이미지를 볼 수 있는 뷰어 개발을 통해 다른 프로그래밍 언어와 환경에 대한 이해
+
+#### tensorflow를 이용한 이미지 분석, 결과 뷰어 응용 프로그램
+
+- 2018-05 ~ 2018-07 (종료)
+- [https://github.com/jongfeel/BrainTumorPredictViewer](https://github.com/jongfeel/BrainTumorPredictViewer)
+- 개발툴, 프레임워크 및 언어: Visual Studio Community 2017, WPF, C#
+
+#### Winform으로 만들어 보는 이미지 뷰어 연습용, 리뷰를 통한 C# 언어 학습
+
+- 2018-07 (종료)
+- [https://github.com/jongfeel/csharp_image_viewer](https://github.com/jongfeel/csharp_image_viewer)
+- 개발툴, 프레임워크 및 언어: Visual Studio Community 2017, Winform, C#
 
 ### 박은영님
 
