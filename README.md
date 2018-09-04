@@ -22,7 +22,7 @@
 
 내가 무엇을 더 알아야 소프트웨어를 개발하는데 도움이 되고 잘 할 수 있게 되는지, 지금의 내 방법으로도 잘 되고 있는데 내가 잘 모르는 다른 방법을 알면 뭐가 더 좋은지 알고 싶은  분들에게 도움이 되는 과정입니다. 최소한 자신이 공부를 할 의지를 가지고 있어야 제가 도움을 드릴 수 있습니다.
 
-## 소개좀 자세히 해 주세요
+## 저에 대한 자세한 소개
 
 저는 현재 [버넥트](http://virnect.com)에서 AR 관련 연구, 제품 개발, 프로젝트 진행을 하고 있습니다.
 개인 과외 활동을 거쳐 네이버 까페 등에서 무료 온라인 강의를 진행하다가 2018년 부터 새로운 활동을 진행하고 있습니다.
@@ -130,15 +130,8 @@ github를 통해 위 활동을 진행하면서 만든 모든 문서와 소스 �
 - 2018-08 ~ 현재
 - 2주에 한번씩 금요일 23:00 온라인 미팅
 - [https://github.com/apeach314/study](https://github.com/apeach314/study)
-- 개발툴, 프레임워크 및 언어: Eclipse Photon, Java
-
-### 김고은님
-
-- 자바스크립트 기초 이해, 자바스크립트로 반응형 페이지 개발
-- 2018-06 ~ 현재
-- 매주 화요일 23:00 온라인 미팅
-- [https://github.com/kimge/kimgoeun](https://github.com/kimge/kimgoeun)
-- 개발툴, 프레임워크 및 언어: Atom, JavaScript, HTML, CSS
+- 개발툴: Eclipse Photon
+- 언어: Java
 
 ### 홍익대학교 컴퓨터공학부 학생들 (한인수, 이근주, ~~김서우~~)
 
@@ -149,9 +142,23 @@ github를 통해 위 활동을 진행하면서 만든 모든 문서와 소스 �
   - [https://github.com/GeunJuLEE/AllCle](https://github.com/GeunJuLEE/AllCle)
 - 현재 주소, 실 프로젝트 진행용
   - [https://github.com/allcle/Allcle](https://github.com/allcle/Allcle)
-- 개발툴, 프레임워크 및 언어: Visual Studio Community 2017, Client: WPF, Server: .NET Core 2.0 API, C#
+- 개발툴: Visual Studio Community 2017
+- 프레임워크
+  - Client: WPF
+  - Server: .NET Core 2.0 API
+- 언어: C#
 
 ## 종료된 프로젝트
+
+### 김고은님
+
+- 자바스크립트 기초 이해, 자바스크립트로 반응형 페이지 개발
+- 2018-06 ~ 2018-09 (종료)
+- 매주 화요일 23:00 온라인 미팅
+- [https://github.com/kimge/kimgoeun](https://github.com/kimge/kimgoeun)
+- 개발툴, 프레임워크 및 언어: Atom, JavaScript, HTML, CSS
+- 후기
+  - 비전공자 웹 개발 과정에서 필요한게 뭔지에 대한 내용
 
 ### 정재우님
 
