@@ -238,17 +238,13 @@ github를 통해 위 활동을 진행하면서 만든 모든 문서와 소스 �
 
 ## 문의
 
-- [Issue](https://github.com/jongfeel/Software/issues) 에 문의 내용을 적어 주세요.
+- 멘토 신청 외의 문의 역시 자유롭게 [DeveloperFEEL@gmail.com](mailto:DeveloperFEEL@gmail.com) 으로 보내주세요.
 - 1일 이내에 답변 드립니다.
-- [github.com](github.com) 계정이 없으시면 이번 기회에 하나 만드는걸 추천 드립니다.
-
-### 주의사항2
-
-문의내용을 등록하는 방법을 알려드렸음에도 불구하고 제 메일로 보내셔도 상관 없습니다. 그러면 보내신 메일 내용을 [Issue](https://github.com/jongfeel/Software/issues)에 Ctrl+C, Ctrl+V로 친절하게 등록해 드립니다.
 
 ## 시작하고 싶은 용기가 생기셨나요?
 
-- [DeveloperFEEL@gmail.com](mailto:DeveloperFEEL@gmail.com) 메일 주소로 하고 싶은게 뭔지 내용을 적어서 보내주세요.
+- 어서 제 메일 주소인 [DeveloperFEEL@gmail.com](mailto:DeveloperFEEL@gmail.com) 으로 하고 싶은게 뭔지 내용을 적어서 보내주세요.
 - 1일 이내에 메일 회신이 가며, 사전 인터뷰를 진행합니다.
 - 사전 인터뷰를 통과 하시면 미팅 일정을 잡아 온라인 혹은 오프라인으로 일정 및 주제, 방향등을 정해서 진행 합니다.
-- 저를 믿고 시간을 투자하여 공부를 시작하세요. 저는 여러분을 위해 많은 것을 알려드릴 준비가 되어 있습니다.
+- 멘티가 되신 분은 git을 설치하고 [github.com](github.com) 를 통해 내용을 공유해야 하므로 github 계정이 없으시면 이번 기회에 하나 만드는걸 추천 드립니다.
+- 저를 믿고 시간을 투자하여 공부를 시작하세요. 저는 여러분을 위해 특정 프로그래밍 언어나 프레임워크 사용법 외에도 많은 것을 알려드릴 준비가 되어 있습니다.
