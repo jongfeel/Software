@@ -155,16 +155,6 @@ github를 통해 위 활동을 진행하면서 만든 모든 문서와 소스 �
 - 프레임워크: React.js 16.7.0, Node.js
 - 언어: Javascript
 
-### 노혜림님
-
-- 웹 위치기반 서비스를 통해, 스터디 모임 회사 정보 볼 수 있는 사이트 개발
-- 2018-09 ~ 현재
-- 2주에 한번씩 화요일 23:00 온라인 미팅
-- [https://github.com/hhlvv/SpringBootProject](https://github.com/hhlvv/SpringBootProject)
-- 개발툴: Visual Studio Code (Spring boot extension)
-- 프레임워크: Spring boot 2.0.5
-- 언어: Java
-
 ### 정은선님
 
 - 알고리즘 문제 풀기, 알고리즘 리뷰 및 수학적 문제에 대한 이해
@@ -176,10 +166,20 @@ github를 통해 위 활동을 진행하면서 만든 모든 문서와 소스 �
 
 ## 종료된 프로젝트
 
+### 노혜림님
+
+- 웹 위치기반 서비스를 통해, 스터디 모임 회사 정보 볼 수 있는 사이트 개발
+- 2018-09 ~ 2018-03 (종료)
+- 2주에 한번씩 화요일 23:00 온라인 미팅
+- [https://github.com/hhlvv/SpringBootProject](https://github.com/hhlvv/SpringBootProject)
+- 개발툴: Visual Studio Code (Spring boot extension)
+- 프레임워크: Spring boot 2.0.5
+- 언어: Java
+
 ### 홍익대학교 컴퓨터공학부 학생들 (한인수, 이근주, ~~김서우~~, 김희성)
 
 - 학생들에게 실질적인 도움을 줄 수 있는 강의시간표 짜기 앱 개발 진행
-- 2018-05 ~ 2019-02
+- 2018-05 ~ 2019-02 (종료)
 - 매주 월요일 22:30 온라인 미팅 (중간, 기말고사 기간 제외)
 - 기존 주소, 연습용
   - [https://github.com/GeunJuLEE/AllCle](https://github.com/GeunJuLEE/AllCle)
