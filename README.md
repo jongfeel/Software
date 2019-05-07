@@ -132,7 +132,8 @@ github를 통해 위 활동을 진행하면서 만든 모든 문서와 소스 �
 - Node.js를 사용한 실시간 채팅 서비스 연습
 - 2019-04 ~ 현재
 - 1주에 한번씩 월요일 23:00 온라인 미팅
-- [회원 가입 시스템](https://github.com/seongdongwon1/sign-up-system)
+- [미팅기록](https://github.com/jdm1219/meeting)
+- [채팅연습](https://github.com/jdm1219/do-seung)
 - 개발툴: Visual Studio Code
 - 프레임워크: Node.js, AWS Lambda, Vue.js
 - 언어: javascript
@@ -163,7 +164,7 @@ github를 통해 위 활동을 진행하면서 만든 모든 문서와 소스 �
 - 2018-12 ~ 현재
 - 1주에 한번씩 목요일 23:00 온라인 미팅
 - 개발툴: Visual Studio Code
-- 프레임워크: React.js
+- 프레임워크: React.js, Node.js
 - 언어: Html, css, javascript
 
 #### 헬스 중계 플랫폼 앱 개발
