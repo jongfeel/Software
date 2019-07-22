@@ -115,7 +115,7 @@ github를 통해 위 활동을 진행하면서 만든 모든 문서와 소스 �
   - 빨리 다른 사람을 구해서 합당한 댓가를 지불하고 일을 시키세요.
   - 좋은 결과가 있기를 희망합니다.
 - 아무 목적 없이 저와 함께 하면 뭔가 잘 알게 될거라는 기대를 가지신 분
-  - 아무것도 하지 않으면 아무일도 일어나지 않습니다.
+  - 스스로 아무것도 하지 않으면 아무일도 일어나지 않습니다.
 - 제가 문제 같은 걸 주고 풀라고 시켜서 그대로 하면 실력이 향상 될 거라 기대하시는 분
   - 전 문제를 내서 풀라고 시키고 검사를 해주는 사람이 아닙니다.
 
@@ -171,17 +171,6 @@ github를 통해 위 활동을 진행하면서 만든 모든 문서와 소스 �
 - 프레임워크: Android(Unity), IBM Watson, Vuforia, Web
 - 언어: C#, Javascript, Python
 
-### 전도명님
-
-- Node.js를 사용한 실시간 채팅 서비스 연습
-- 2019-04 ~ 현재
-- 1주에 한번씩 월요일 23:00 온라인 미팅
-- [미팅기록](https://github.com/jdm1219/meeting)
-- [채팅연습](https://github.com/jdm1219/do-seung)
-- 개발툴: Atom
-- 프레임워크: Node.js, AWS Lambda, Vue.js
-- 언어: Html, CSS, Javascript
-
 ### 성동원님
 
 - 회원 가입 화면 및 개발 연습
@@ -232,6 +221,20 @@ github를 통해 위 활동을 진행하면서 만든 모든 문서와 소스 �
 - [ReactJS 훈련, 앱 따라 만들기 강의](https://github.com/WonjeongPark/revents)
 
 ## 종료된 프로젝트 (2019년)
+
+### 전도명님
+
+- Node.js를 사용한 실시간 채팅 서비스 연습
+- 2019-04 ~ 2019-07 (종료)
+- 2주에 한번씩 월요일 23:00 온라인 미팅
+- [미팅기록](https://github.com/jdm1219/meeting)
+- [채팅연습](https://github.com/jdm1219/do-seung)
+- 개발툴: Atom => Visual Studio Code
+- 프레임워크: Node.js, AWS Lambda, Vue.js
+- 언어: Html, CSS, Javascript
+- 후기
+  - 채팅 프로세스에 대한 이해
+  - AWS에 웹 프로젝트 배포하는 법
 
 ### 조윤우님
 
