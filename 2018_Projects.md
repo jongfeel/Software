@@ -9,6 +9,8 @@
 - 매주 화요일 23:00 온라인 미팅
 - [https://github.com/kimge/kimgoeun](https://github.com/kimge/kimgoeun)
 - 개발툴, 프레임워크 및 언어: Atom, JavaScript, HTML, CSS
+- 미팅
+  - 온라인: 6회
 - 후기
   - 비전공자 웹 개발 과정에서 필요한게 뭔지에 대한 내용
 
@@ -17,6 +19,8 @@
 - 개인적으로 tensorflow를 통한 이미지 학습 공부 진행
 - 이 결과물을 볼 수 있는 뷰어 개발을 위해 저와 WPF 기반의 C# study 진행 중
 - 매주 월요일 18:40 오프라인 미팅
+- 미팅
+  - 오프라인: 3회
 - 후기
   - tensor flow를 통해 이미지 인식 대한 개요 및 이해
   - 이런한 이미지를 볼 수 있는 뷰어 개발을 통해 다른 프로그래밍 언어와 환경에 대한 이해
@@ -40,6 +44,9 @@
 - 매주 목요일 23:00 온라인 미팅
 - [https://github.com/eunyoung739/cloud](https://github.com/eunyoung739/cloud)
 - 개발툴, 프레임워크 및 언어: Brakets, JavaScript, jQuery, HTML, CSS
+- 미팅
+  - 오프라인: 1회
+  - 온라인: 4회
 - 후기
   - 반응형 웹 사이트 코드 리뷰 및 구현 의도 분석
   - jQuery가 아닌 javascript에 대한 리뷰 및 이해
@@ -52,6 +59,8 @@
 - 매주 금요일 19:00 오프라인 미팅
 - [https://trello.com/b/Zf5y2C2p/ar](https://trello.com/b/Zf5y2C2p/ar)
 - 개발툴, 프레임워크 및 언어: Visual Studio Community 2017, UWP, C#
+- 미팅
+  - 오프라인: 6회
 - 후기
   - 유니티 -> 홀로렌즈로 AR 앱을 개발하는 방법 전파
   - github를 통한 공유, 실제 코드 리뷰 및 설명을 통한 진행
@@ -63,6 +72,8 @@
 - 매주 금요일 23:00 온라인 미팅
 - [https://github.com/parkdex/T_MultiThreading](https://github.com/parkdex/T_MultiThreading)
 - 개발툴, 프레임워크 및 언어: Visual Studio Community 2017, WinForm, C#
+- 미팅
+  - 온라인: 3회
 - 후기
   - C#의 이벤트에 대한 이해
   - Winform 끼리 데이터를 주고 받는 다른 방식
