@@ -52,7 +52,7 @@
 
 - [Github](https://github.com/jongfeel)
 - [Blog](https://developerfeel.blogspot.kr/)
-- [Resume](https://jongfeel.github.io/Software/KimJong-Feel.pdf)
+- [Resume](https://my.indeed.com/p/KimJ-ongFeel)
 
 ## 어떤 개발 언어로 하는 거죠?
 
