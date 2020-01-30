@@ -140,16 +140,6 @@ github를 통해 위 활동을 진행하면서 만든 모든 문서와 소스 �
 
 ## 아래와 같은 분들이 저와 함께 하고 계십니다
 
-### 양윤지님
-
-- 아이돌 덕후를 위한 아이돌 관리 사이트
-- 2019-12 ~ 현재
-- 2주에 한번씩 금요일 23:00 온라인 미팅
-- [AllOfIdol](https://github.com/dkdkhappy/Idol)
-- 개발툴: Visual Studio Code
-- 프레임워크: ?
-- 언어: Javascript, Html, CSS
-
 ### 고아라님
 
 - 나만의 책장 및 독서 기록 관리 앱
@@ -204,20 +194,20 @@ github를 통해 위 활동을 진행하면서 만든 모든 문서와 소스 �
 - 프레임워크: React.js, Node.js
 - 언어: Html, css, javascript
 
-#### 헬스 중계 플랫폼 앱 개발
-
-- 2019-03 ~ 현재
-- [헬스 중계 플랫폼](https://github.com/WonjeongPark/howto)
-
-#### 알고리즘 문제 연습
-
-- 2019-03 ~ 현재
-- [알고리즘 문제 연습](https://github.com/WonjeongPark/Algorithm)
-
 #### 공부한 내용 정리
 
 - 2018-12 ~ 현재
 - [공부한 내용 정리](https://github.com/WonjeongPark/WhatTheHealth)
+
+#### 헬스 중계 플랫폼 앱 개발
+
+- 2019-03 ~ 2020-01 (종료)
+- [헬스 중계 플랫폼](https://github.com/WonjeongPark/howto)
+
+#### 알고리즘 문제 연습
+
+- 2019-03 ~ 2019-09 (종료)
+- [알고리즘 문제 연습](https://github.com/WonjeongPark/Algorithm)
 
 #### 사전 React 앱 개발을 위한 훈련
 
@@ -225,6 +215,24 @@ github를 통해 위 활동을 진행하면서 만든 모든 문서와 소스 �
 - [ReactJS 훈련, 앱 따라 만들기 강의](https://github.com/WonjeongPark/revents)
 
 ## 종료된 프로젝트
+
+### 2020년
+
+#### 양윤지님
+
+- 아이돌 덕후를 위한 아이돌 관리 사이트
+- 2019-12 ~ 2019-01 (종료)
+- 2주에 한번씩 금요일 23:00 온라인 미팅
+- [AllOfIdol](https://github.com/dkdkhappy/Idol)
+- 개발툴: Visual Studio Code
+- 프레임워크: ?
+- 언어: Javascript, Html, CSS
+- 미팅
+  - 오프라인: 1회
+  - 온라인: 3회
+- 후기
+  - 만드려고 하는 사이트의 구체적인 분석 및 화면 설계
+  - 제대로된 요구사항 분석 리뷰
 
 ### [2019년](https://jongfeel.github.io/Software/2019_Projects)
 
