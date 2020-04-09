@@ -184,6 +184,16 @@ github의 issue 탭에 생성하고 공유합니다.
 
 ## 아래와 같은 분들이 저와 함께 하고 계십니다
 
+### 노혜림님
+
+- 나만의 청첩장 사이트
+- 2020-01 ~ 현재
+- 목요일 혹은 금요일 2~3주에 한번씩 23:00 온라인 미팅
+- [OMO](https://github.com/hhlvv/omo)
+- 개발툴: Visual Studio Code
+- 프레임워크: Vue.js + Node.js
+- 언어: Javascript
+
 ### 고아라님
 
 - 나만의 책장 및 독서 기록 관리 앱
@@ -191,7 +201,7 @@ github의 issue 탭에 생성하고 공유합니다.
 - 1주에 한번씩 월요일 23:00 온라인 미팅
 - [BookJournal](https://github.com/aralaa/BookJournal)
 - 개발툴: ?
-- 프레임워크: React Native
+- 프레임워크: React Native + Node.js
 - 언어: Javascript
 
 ### 윤태원님
@@ -205,10 +215,14 @@ github의 issue 탭에 생성하고 공유합니다.
 - 프레임워크: Spring 5.0.7
 - 언어: Java, javascript, SQL 등
 
-### 조윤우님, 정혜인님 (냥터레스트)
+### 조윤우님 + ~~정혜인님~~
 
-- 유기묘를 위한 검색/등록 기능이 추가된 앱만들기 프로젝트
-- 2019-04 ~ 현재
+- 유기묘를 위한 검색/등록 기능이 추가된 냥터레스트 사이트 프로젝트
+- 조윤우님 + 정혜인님 팀
+  - 2019-04 ~ 2020-02
+  - 정혜인님이 2020년 2월 취업하여 잠시(?) 중단
+- 조윤우님 개인
+  - 2020-02 ~ 현재
 - 2주에 한번씩 수요일 23:00 온라인 미팅
 - [Nyangterest](https://github.com/henyy1004/nyangterest)
 - 개발툴: Visual Studio Code
@@ -217,16 +231,21 @@ github의 issue 탭에 생성하고 공유합니다.
 
 ### 박원정님
 
-- React 기반 웹 프론트엔드 개발자 목표, howto 프로젝트 진행
-- 2018-12 ~ 현재
+- ReactNative로 스페인어 회화 공부를 할 수 있는 안드로이드 앱 개발
+- 2020-03 ~ 현재
 - 3주에 한번씩 목요일 23:00 온라인 미팅
 - 개발툴: Visual Studio Code
-- 프레임워크: React.js, Node.js
+- 프레임워크: ReactNative, Node.js
 - 언어: Html, css, javascript
+
+#### 스페인어 회화 앱
+
+- 2020-03 ~ 현재
+- [HolaHola](https://github.com/WonjeongPark/howto)
 
 #### 공부한 내용 정리
 
-- 2018-12 ~ 현재
+- 2018-12 ~ 현재 (사실상 종료)
 - [공부한 내용 정리](https://github.com/WonjeongPark/WhatTheHealth)
 
 #### 헬스 중계 플랫폼 앱 개발
