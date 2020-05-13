@@ -187,8 +187,8 @@ github의 issue 탭에 생성하고 공유합니다.
 ### 고아라님
 
 - 나만의 책장 및 독서 기록 관리 앱
-- 2019-12 ~ 현재
-- 1주에 한번씩 월요일 23:00 온라인 미팅
+- 2019-12 ~ 현재 (2020-05 ~ 2020-06 잠깐 휴식)
+- ?주에 한번씩 월요일 23:00 온라인 미팅
 - [BookJournal](https://github.com/aralaa/BookJournal)
 - 개발툴: ?
 - 프레임워크: React Native + Node.js
@@ -223,7 +223,7 @@ github의 issue 탭에 생성하고 공유합니다.
 
 - ReactNative로 스페인어 회화 공부를 할 수 있는 안드로이드 앱 개발
 - 2020-03 ~ 현재
-- 3주에 한번씩 목요일 23:00 온라인 미팅
+- 4주에 한번씩 목요일 23:00 온라인 미팅
 - 개발툴: Visual Studio Code
 - 프레임워크: ReactNative, Node.js
 - 언어: Html, css, javascript
