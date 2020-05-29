@@ -219,43 +219,50 @@ github의 issue 탭에 생성하고 공유합니다.
 - 프레임워크: React.js 16.8.0, Node.js, MySQL
 - 언어: Javascript, SQL
 
-### 박원정님
+## 종료된 프로젝트
+
+### 2020년
+
+#### 박원정님
 
 - ReactNative로 스페인어 회화 공부를 할 수 있는 안드로이드 앱 개발
-- 2020-03 ~ 현재
+- 2018-12 ~ 2020-05
 - 4주에 한번씩 목요일 23:00 온라인 미팅
 - 개발툴: Visual Studio Code
 - 프레임워크: ReactNative, Node.js
 - 언어: Html, css, javascript
+- 미팅
+  - 온라인: 32회
+  - 오프라인: 3회
+  - 기타 오프라인: 2회 (home coming day, 하코사 세미나)
+- 후기
+  - 소프트웨어를 개발하기 위해서 알아야 하는 과정들에 대한 경험을 충분히 함
+  - 알고릐즘, 객체지향, 소프트웨어 라이프 사이클 등
 
-#### 스페인어 회화 앱
+##### 스페인어 회화 앱
 
-- 2020-03 ~ 현재
+- 2020-03 ~ 2020-05
 - [HolaHola](https://github.com/WonjeongPark/howto)
 
-#### 공부한 내용 정리
+##### 공부한 내용 정리
 
-- 2018-12 ~ 현재 (사실상 종료)
+- 2018-12 ~ 2020-05 (사실상 종료)
 - [공부한 내용 정리](https://github.com/WonjeongPark/WhatTheHealth)
 
-#### 헬스 중계 플랫폼 앱 개발
+##### 헬스 중계 플랫폼 앱 개발
 
 - 2019-03 ~ 2020-01 (종료)
 - [헬스 중계 플랫폼](https://github.com/WonjeongPark/howto)
 
-#### 알고리즘 문제 연습
+##### 알고리즘 문제 연습
 
 - 2019-03 ~ 2019-09 (종료)
 - [알고리즘 문제 연습](https://github.com/WonjeongPark/Algorithm)
 
-#### 사전 React 앱 개발을 위한 훈련
+##### 사전 React 앱 개발을 위한 훈련
 
 - 2018-12 ~ 2019-03 (종료)
 - [ReactJS 훈련, 앱 따라 만들기 강의](https://github.com/WonjeongPark/revents)
-
-## 종료된 프로젝트
-
-### 2020년
 
 #### 노혜림님
 
