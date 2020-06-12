@@ -184,6 +184,22 @@ github의 issue 탭에 생성하고 공유합니다.
 
 ## 아래와 같은 분들이 저와 함께 하고 계십니다
 
+### [20_HF064] W.A.S.P - Wearable Accessory Showing Program
+
+- 2020 한이음 프로젝트 자율형
+- 멘티
+  - 팽대원: 경기대학교 전자공학과
+  - 기지연: 경기대학교 전자공학과
+  - 임아름: 경기대학교 전자공학과
+- 2020-04 ~ 2020-11(예정)
+- 필요시 오프라인 미팅 및 온라인 미팅
+- Repository
+  - Gitlab (main activity): [https://gitlab.com/jeon-ha/W-A-S-P](https://gitlab.com/jeon-ha/W-A-S-P)
+  - Gitlab (hanium): [https://lab.hanium.or.kr/20_hf064/main](https://lab.hanium.or.kr/20_hf064/main)
+- 개발툴: Unity, Visual Studio
+- 프레임워크: Unity, ARCore, ARKit
+- 언어: C#
+
 ### [20_HF025] 대학생을 위한 협업 플랫폼 구축
 
 - 2020 한이음 프로젝트 자율형
@@ -194,8 +210,8 @@ github의 issue 탭에 생성하고 공유합니다.
 - 2020-04 ~ 2020-11(예정)
 - 필요시 오프라인 미팅 및 온라인 미팅
 - Repository
-  - Github (main activity): https://github.com/kyu9341/TeamHash
-  - Gitlab (backup): https://lab.hanium.or.kr/20_hf025/main
+  - Github (main activity): [https://github.com/kyu9341/TeamHash](https://github.com/kyu9341/TeamHash)
+  - Gitlab (backup): [https://lab.hanium.or.kr/20_hf025/main](https://lab.hanium.or.kr/20_hf025/main)
 - 개발툴: IntelLiJ, Visual Studio Code
 - 프레임워크: Spring boot
 - DB: MariaDB
@@ -213,7 +229,7 @@ github의 issue 탭에 생성하고 공유합니다.
   - ~~정채윤: 연세대학교 융합과학공학과~~
 - 2020-04 ~ 2020-11(예정)
 - 필요시 오프라인 미팅 및 온라인 미팅
-- Gitlab repository: https://lab.hanium.or.kr/20_hg007y/main
+- Gitlab repository: [https://lab.hanium.or.kr/20_hg007y/main](https://lab.hanium.or.kr/20_hg007y/main)
 - 개발툴: Unity, Visual Studio
 - 프레임워크: Unity, Flask
 - 클라우드: AWS
