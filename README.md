@@ -246,16 +246,6 @@ github의 issue 탭에 생성하고 공유합니다.
 - 프레임워크: ?
 - 언어: Javascript
 
-### 고아라님
-
-- 나만의 책장 및 독서 기록 관리 앱
-- 2019-12 ~ 현재 (2020-05 ~ 2020-06 잠깐 휴식)
-- ?주에 한번씩 월요일 23:00 온라인 미팅
-- [BookJournal](https://github.com/aralaa/BookJournal)
-- 개발툴: ?
-- 프레임워크: React Native + Node.js
-- 언어: Javascript
-
 ### 윤태원님
 
 - okky를 따라 만든 dokky 프로젝트 진행
@@ -282,6 +272,22 @@ github의 issue 탭에 생성하고 공유합니다.
 ## 종료된 프로젝트
 
 ### 2020년
+
+#### 고아라님
+
+- 나만의 책장 및 독서 기록 관리 앱
+- 2019-12 ~ 2020-06 (2020-05 ~ 2020-06 잠깐 휴식 후 종료)
+- ?주에 한번씩 월요일 23:00 온라인 미팅
+- [BookJournal](https://github.com/aralaa/BookJournal)
+- 개발툴: ?
+- 프레임워크: React Native + Node.js
+- 언어: Javascript
+- 미팅
+  - 온라인: 8회
+  - 오프라인: 1회
+  - 기타 오프라인: 1회 (home coming day)
+- 후기
+  - 만들고자 하는 앱의 분석, OPEN API, 소프트웨어 설계 등의 경험
 
 #### 박원정님
 
