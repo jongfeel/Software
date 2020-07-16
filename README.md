@@ -185,6 +185,23 @@ github의 issue 탭에 생성하고 공유합니다.
 
 ## 아래와 같은 분들이 저와 함께 하고 계십니다
 
+### [20_HG012B] Unity를 이용한 3D 탈출게임
+
+- 2020 한이음 프로젝트 학점연계형
+- 멘티
+  - 윤세현: 배화여자대학 스마트IT과 3학년
+  - 안예은: 배화여자대학 스마트IT과 3학년
+  - 이유진: 배화여자대학 스마트IT과 3학년
+  - 정민: 배화여자대학 스마트IT과 3학년
+- 2020-04 ~ 2020-11(예정)
+- 필요시 오프라인 미팅 및 온라인 미팅
+- Repository
+  - Gitlab : [https://lab.hanium.or.kr/20_hg012b/main](https://lab.hanium.or.kr/20_hg012b/main)
+- 개발툴: Unity, Visual Studio
+- 프레임워크: Unity
+- 활용장비: Oculus S
+- 언어: C#
+
 ### [20_HF064] W.A.S.P - Wearable Accessory Showing Program
 
 - 2020 한이음 프로젝트 자율형
