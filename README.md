@@ -199,7 +199,7 @@ github의 issue 탭에 생성하고 공유합니다.
   - Gitlab : [https://lab.hanium.or.kr/20_hg012b/main](https://lab.hanium.or.kr/20_hg012b/main)
 - 개발툴: Unity, Visual Studio
 - 프레임워크: Unity
-- 활용장비: Oculus S
+- 활용장비: Samsung odyssey
 - 언어: C#
 
 ### [20_HF064] W.A.S.P - Wearable Accessory Showing Program
@@ -260,10 +260,10 @@ github의 issue 탭에 생성하고 공유합니다.
 
 - 롤체스(lolchess.gg)와 같은 사이트 구축, 일부 기능만 구현
 - 2020-05 ~ 현재
-- 2주에 한번씩 금요일 23:00 온라인 미팅
+- 2주에 한번씩 목요일 23:00 온라인 미팅
 - [LolChess](https://github.com/smilelovea/lolChess)
-- 개발툴: ?
-- 프레임워크: ?
+- 개발툴: Visual studio code
+- 프레임워크: None
 - 언어: Javascript
 - 시작하게 된 계기
   - 2019 한이음 프로젝트를 진행했던 조승현님의 누나로 승현님이 개인 멘토링 해줄 수 있냐는 부탁을 따로 함
