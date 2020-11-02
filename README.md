@@ -427,7 +427,7 @@ github의 issue 탭에 생성하고 공유합니다.
 #### 양윤지님
 
 - 아이돌 덕후를 위한 아이돌 관리 사이트
-- 2019-12 ~ 2019-01 (종료)
+- 2019-12 ~ 2020-01 (종료)
 - 2주에 한번씩 금요일 23:00 온라인 미팅
 - [AllOfIdol](https://github.com/dkdkhappy/Idol)
 - 개발툴: Visual Studio Code
