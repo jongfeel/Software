@@ -198,77 +198,6 @@ github의 issue 탭에 생성하고 공유합니다.
   - 2020 한이음 프로젝트를 진행했던 팽대원님의 요청으로 자료구조 및 코딩 테스트 공부 진행
   - 팽대원님의 같은 동아리 후배인 정세영님을 합류 시켜서 같이 진행
 
-### [20_HG012B] Unity를 이용한 3D 탈출게임
-
-- 2020 한이음 프로젝트 학점연계형
-- 멘티
-  - 윤세현: 배화여자대학 스마트IT과 3학년
-  - 안예은: 배화여자대학 스마트IT과 3학년
-  - 이유진: 배화여자대학 스마트IT과 3학년
-  - 정민: 배화여자대학 스마트IT과 3학년
-- 2020-04 ~ 2020-11(예정)
-- 필요시 오프라인 미팅 및 온라인 미팅
-- Repository
-  - Gitlab : [https://lab.hanium.or.kr/20_hg012b/main](https://lab.hanium.or.kr/20_hg012b/main)
-- 개발툴: Unity, Visual Studio
-- 프레임워크: Unity
-- 활용장비: Samsung odyssey
-- 언어: C#
-
-### [20_HF064] W.A.S.P - Wearable Accessory Showing Program
-
-- 2020 한이음 프로젝트 자율형
-- 멘티
-  - 팽대원: 경기대학교 전자공학과
-  - 기지연: 경기대학교 전자공학과
-  - 임아름: 경기대학교 전자공학과
-- 2020-04 ~ 2020-11(예정)
-- 필요시 오프라인 미팅 및 온라인 미팅
-- Repository
-  - Gitlab (main activity): [https://gitlab.com/jeon-ha/W-A-S-P](https://gitlab.com/jeon-ha/W-A-S-P)
-  - Gitlab (hanium): [https://lab.hanium.or.kr/20_hf064/main](https://lab.hanium.or.kr/20_hf064/main)
-- 개발툴: Unity, Visual Studio
-- 프레임워크: Unity, ARCore, ARKit
-- 언어: C#
-
-### [20_HF025] 대학생을 위한 협업 플랫폼 구축
-
-- 2020 한이음 프로젝트 자율형
-- 멘티
-  - 권영언: 성결대학교 정보통신공학부
-  - 조승현: 성결대학교 정보통신공학부
-  - 유아현: 성결대학교 정보통신공학부
-- 2020-04 ~ 2020-11(예정)
-- 필요시 오프라인 미팅 및 온라인 미팅
-- Repository
-  - Github (main activity): [https://github.com/kyu9341/TeamHash](https://github.com/kyu9341/TeamHash)
-  - Gitlab (backup): [https://lab.hanium.or.kr/20_hf025/main](https://lab.hanium.or.kr/20_hf025/main)
-- 개발툴: IntelLiJ, Visual Studio Code
-- 프레임워크: Spring boot
-- DB: MariaDB
-- 클라우드: AWS
-- 언어: Java, Javascript
-- 시작하게 된 계기
-  - 보통 한이음 프로젝트는 처음하는 것으로 계기가 없으나
-  - 2019년 멘토링 해준 팀으로 2020년에 다시 멘토링 해주게 된 케이스
-
-### [20_HG007Y] AReal
-
-- 2020 한이음 프로젝트 학점연계형
-- 멘티
-  - 장형규: 연세대학교 정보산업공학과
-  - 이재환: 연세대학교 정보산업공학과
-  - 고연송: 연세대학교 정치외교학과
-  - 박성현: 연세대학교 정치외교학과
-  - ~~정채윤: 연세대학교 융합과학공학과~~
-- 2020-04 ~ 2020-11(예정)
-- 필요시 오프라인 미팅 및 온라인 미팅
-- Gitlab repository: [https://lab.hanium.or.kr/20_hg007y/main](https://lab.hanium.or.kr/20_hg007y/main)
-- 개발툴: Unity, Visual Studio
-- 프레임워크: Unity, Flask
-- 클라우드: AWS
-- 언어: Python, C#
-
 ### 조혜빈님
 
 - 롤체스(lolchess.gg)와 같은 사이트 구축, 일부 기능만 구현
@@ -318,6 +247,77 @@ github의 issue 탭에 생성하고 공유합니다.
 ## 종료된 프로젝트
 
 ### 2020년
+
+#### [20_HG012B] Unity를 이용한 3D 탈출게임
+
+- 2020 한이음 프로젝트 학점연계형
+- 멘티
+  - 윤세현: 배화여자대학 스마트IT과 3학년
+  - 안예은: 배화여자대학 스마트IT과 3학년
+  - 이유진: 배화여자대학 스마트IT과 3학년
+  - 정민: 배화여자대학 스마트IT과 3학년
+- 2020-04 ~ 2020-11
+- 필요시 오프라인 미팅 및 온라인 미팅
+- Repository
+  - Gitlab : [https://lab.hanium.or.kr/20_hg012b/main](https://lab.hanium.or.kr/20_hg012b/main)
+- 개발툴: Unity, Visual Studio
+- 프레임워크: Unity
+- 활용장비: Samsung odyssey
+- 언어: C#
+
+#### [20_HF064] W.A.S.P - Wearable Accessory Showing Program
+
+- 2020 한이음 프로젝트 자율형
+- 멘티
+  - 팽대원: 경기대학교 전자공학과
+  - 기지연: 경기대학교 전자공학과
+  - 임아름: 경기대학교 전자공학과
+- 2020-04 ~ 2020-11
+- 필요시 오프라인 미팅 및 온라인 미팅
+- Repository
+  - Gitlab (main activity): [https://gitlab.com/jeon-ha/W-A-S-P](https://gitlab.com/jeon-ha/W-A-S-P)
+  - Gitlab (hanium): [https://lab.hanium.or.kr/20_hf064/main](https://lab.hanium.or.kr/20_hf064/main)
+- 개발툴: Unity, Visual Studio
+- 프레임워크: Unity, ARCore, ARKit
+- 언어: C#
+
+#### [20_HF025] 대학생을 위한 협업 플랫폼 구축
+
+- 2020 한이음 프로젝트 자율형
+- 멘티
+  - 권영언: 성결대학교 정보통신공학부
+  - 조승현: 성결대학교 정보통신공학부
+  - 유아현: 성결대학교 정보통신공학부
+- 2020-04 ~ 2020-11
+- 필요시 오프라인 미팅 및 온라인 미팅
+- Repository
+  - Github (main activity): [https://github.com/kyu9341/TeamHash](https://github.com/kyu9341/TeamHash)
+  - Gitlab (backup): [https://lab.hanium.or.kr/20_hf025/main](https://lab.hanium.or.kr/20_hf025/main)
+- 개발툴: IntelLiJ, Visual Studio Code
+- 프레임워크: Spring boot
+- DB: MariaDB
+- 클라우드: AWS
+- 언어: Java, Javascript
+- 시작하게 된 계기
+  - 보통 한이음 프로젝트는 처음하는 것으로 계기가 없으나
+  - 2019년 멘토링 해준 팀으로 2020년에 다시 멘토링 해주게 된 케이스
+
+#### [20_HG007Y] AReal
+
+- 2020 한이음 프로젝트 학점연계형
+- 멘티
+  - 장형규: 연세대학교 정보산업공학과
+  - 이재환: 연세대학교 정보산업공학과
+  - 고연송: 연세대학교 정치외교학과
+  - 박성현: 연세대학교 정치외교학과
+  - ~~정채윤: 연세대학교 융합과학공학과~~
+- 2020-04 ~ 2020-11
+- 필요시 오프라인 미팅 및 온라인 미팅
+- Gitlab repository: [https://lab.hanium.or.kr/20_hg007y/main](https://lab.hanium.or.kr/20_hg007y/main)
+- 개발툴: Unity, Visual Studio
+- 프레임워크: Unity, Flask
+- 클라우드: AWS
+- 언어: Python, C#
 
 #### 고아라님
 
