@@ -185,6 +185,18 @@ github의 issue 탭에 생성하고 공유합니다.
 
 ## 아래와 같은 분들이 저와 함께 하고 계십니다
 
+### 차동훈님
+
+- 2D Action PRG 게임 제작
+- 2021-01 ~ 현재
+- 매주 월요일 19:00 오프라인 미팅
+- [JustFight](https://github.com/Joseph-Cha/JustFight_Client)
+- 개발툴: Unity, Visual Studio, Visual Studio Code
+- 프레임워크: Unity, .NET 5
+- 언어: C#
+- 시작하게 된 계기
+  - 신입 개발자로 Unity 업무를 함에 있어서, 개인 프로젝트에 연관시켜서 게임 제작 시작
+
 ### 박소현님, 박지수님, 이수혁님 팀
 
 - 자료구조 및 알고리즘 스터디, [Do it! 자료구조와 함께 배우는 알고리즘 입문 C 언어 편](http://aladin.kr/p/jLczB) 책으로 문제 풀이 진행
