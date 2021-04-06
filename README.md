@@ -265,7 +265,7 @@ github의 issue 탭에 생성하고 공유합니다.
 ### 조혜빈님
 
 - 롤체스(lolchess.gg)와 같은 사이트 구축, 일부 기능만 구현
-- 2020-05 ~ 현재
+- 2020-05 ~ 2021-02
 - 2주에 한번씩 목요일 23:00 온라인 미팅
 - [LolChess](https://github.com/smilelovea/lolChess)
 - 개발툴: Visual studio code
