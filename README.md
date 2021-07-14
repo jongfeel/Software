@@ -203,6 +203,23 @@ github의 issue 탭에 생성하고 공유합니다.
 
 ## 아래와 같은 분들이 저와 함께 하고 계십니다
 
+### [21_HF046] VR을 활용한 AI 외국어 학습 시스템
+
+- 2021 한이음 프로젝트 자율형
+- 멘티
+  - 김수현: 서경대학교 컴퓨터과학과 4학년
+  - 김민호: 순천향대학교 환경보건학과 2학년
+  - 유상욱: 성결대학교 미디어소프트웨어과 4학년
+  - 정용현: 용인송담대학 컴퓨터게임과 2학년
+- 2021-04 ~ 2021-11
+- 필요시 오프라인 미팅 및 온라인 미팅
+- Repository
+  - Github (main activity): https://github.com/SangwookYoo/MultilingualLearningVR-unity
+  - Gitlab (hanium): https://lab.hanium.or.kr/21_HF046/21_hf046
+- 개발툴: Unity, Visual Studio
+- 프레임워크: Unity, SteamVR
+- 언어: C#
+
 ### [21_HG028] 인체 치료 VR - Body Cure Bot VR
 
 - 2021 한이음 프로젝트 학점연계형
