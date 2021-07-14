@@ -207,7 +207,7 @@ github의 issue 탭에 생성하고 공유합니다.
 
 - 2D Action PRG 게임 제작
 - 2021-01 ~ 현재
-- 매주 월요일 19:00 오프라인 미팅
+- 매주 평일 가능한 시간에 19:00 오프라인 미팅
 - [JustFight](https://github.com/Joseph-Cha/JustFight_Client)
 - 개발툴: Unity, Visual Studio, Visual Studio Code
 - 프레임워크: Unity, .NET 5
