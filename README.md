@@ -203,6 +203,23 @@ github의 issue 탭에 생성하고 공유합니다.
 
 ## 아래와 같은 분들이 저와 함께 하고 계십니다
 
+### [21_HF279] Unity를 활용한 증강현실 과학실험 앱
+
+- 2021 한이음 프로젝트 자율형
+- 멘티
+  - 심우정: 상명대학교 스마트정보통신공학과 3학년
+  - 마혜준: 상명대학교 스마트정보통신공학과 3학년
+  - 양하은: 상명대학교 스마트정보통신공학과 3학년
+  - 허예지: 상명대학교 스마트정보통신공학과 3학년
+- 2021-04 ~ 2021-11
+- 필요시 오프라인 미팅 및 온라인 미팅
+- Repository
+  - Github (main activity): https://github.com/ShimWooJeong/AR_experiment
+  - Gitlab (hanium): https://lab.hanium.or.kr/21_HF279/21_hf279
+- 개발툴: Unity, Visual Studio
+- 프레임워크: Unity, ARCore
+- 언어: C#
+
 ### [21_HF401] AR 프로그램을 기반으로 만든 보정 어플 - ‘뽀정했어?’
 
 - 2021 한이음 프로젝트 자율형
