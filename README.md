@@ -203,6 +203,22 @@ github의 issue 탭에 생성하고 공유합니다.
 
 ## 아래와 같은 분들이 저와 함께 하고 계십니다
 
+### [21_HG028] 인체 치료 VR - Body Cure Bot VR
+
+- 2021 한이음 프로젝트 학점연계형
+- 멘티
+  - 이채은: 덕성여자대학교 IT미디어공학과 4학년
+  - 김두리: 덕성여자대학교 IT미디어공학과 4학년
+  - 이다연: 덕성여자대학교 IT미디어공학과 4학년
+- 2021-04 ~ 2021-11
+- 필요시 오프라인 미팅 및 온라인 미팅
+- Repository
+  - Github (main activity): https://github.com/ErigoLee/BodyCureBotVR
+  - Gitlab (hanium): https://lab.hanium.or.kr/21_HG028/21_hg028
+- 개발툴: Unity, Visual Studio
+- 프레임워크: Unity, SteamVR
+- 언어: C#
+
 ### [21_HF279] Unity를 활용한 증강현실 과학실험 앱
 
 - 2021 한이음 프로젝트 자율형
