@@ -253,22 +253,6 @@ github의 issue 탭에 생성하고 공유합니다.
 - 프레임워크: Unity, ARCore
 - 언어: C#
 
-### [21_HF401] AR 프로그램을 기반으로 만든 보정 어플 - ‘뽀정했어?’
-
-- 2021 한이음 프로젝트 자율형
-- 멘티
-  - 전승현: 대림대학교 모바일인터넷 2학년
-  - 박세훈: 대림대학교 모바일인터넷 3학년
-  - 안진홍: 대림대학교 컴퓨터정보학부 2학년
-- 2021-04 ~ 2021-11
-- 필요시 오프라인 미팅 및 온라인 미팅
-- Repository
-  - Github (main activity): https://github.com/jeonseunghyeon/ppojeong-ARProgram
-  - Gitlab (hanium): https://lab.hanium.or.kr/21_HF401/21_hf401
-- 개발툴: Unity, Visual Studio
-- 프레임워크: Unity, ARKit
-- 언어: C#
-
 ### 차동훈님
 
 - 2D Action PRG 게임 제작
@@ -313,6 +297,23 @@ github의 issue 탭에 생성하고 공유합니다.
   - 팽대원님의 같은 동아리 후배인 정세영님을 합류 시켜서 같이 진행
 
 ## 종료된 프로젝트 2021년
+
+### [21_HF401] AR 프로그램을 기반으로 만든 보정 어플 - ‘뽀정했어?’
+
+- 2021 한이음 프로젝트 자율형
+- 멘티
+  - 전승현: 대림대학교 모바일인터넷 2학년
+  - 박세훈: 대림대학교 모바일인터넷 3학년
+  - 안진홍: 대림대학교 컴퓨터정보학부 2학년
+- 2021-04 ~ 2021-07
+- 필요시 오프라인 미팅 및 온라인 미팅
+- Repository
+  - Github (main activity): https://github.com/jeonseunghyeon/ppojeong-ARProgram
+  - Gitlab (hanium): https://lab.hanium.or.kr/21_HF401/21_hf401
+- 개발툴: Unity, Visual Studio
+- 프레임워크: Unity, ARKit
+- 언어: C#
+- 중간 보고서 미제출로 프로젝트 중단
 
 ### 정혜인님
 
